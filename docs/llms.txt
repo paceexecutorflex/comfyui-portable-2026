@@ -1,0 +1,18 @@
+# comfyui-portable-2026
+
+> ComfyUI — портативная сборка для Windows: локальная генерация Stable Diffusion / FLUX без облака
+
+Official ComfyUI portable habit — zip, extract, run. comfyui-portable-2026 follows that, with a named Windows pack.
+
+## Pages
+- Site: https://paceexecutorflex.github.io/comfyui-portable-2026/
+- Release: https://github.com/paceexecutorflex/comfyui-portable-2026/releases/latest
+- Source repo: https://github.com/paceexecutorflex/comfyui-portable-2026
+- Engine: https://github.com/Comfy-Org/ComfyUI
+
+## Queries
+- ComfyUI portable Windows
+- ComfyUI portable Windows
+- local Stable Diffusion download
+
+Windows 10/11, local GPU, no subscription.
